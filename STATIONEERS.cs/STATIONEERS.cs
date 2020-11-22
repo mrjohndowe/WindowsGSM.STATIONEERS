@@ -19,7 +19,7 @@ namespace WindowsGSM.Plugins
             author = "Nopus",
             description = "🧩 WindowsGSM plugin for supporting Staioneers Dedicated Server",
             version = "1.0",
-            url = "https://github.com/Nopus64/WindowsGSM.Stationeers", // Github repository link (Best practice)
+            url = "https://github.com/Nopus64/WindowsGSM.STATIONEERS", // Github repository link (Best practice)
             color = "#0000FF" // Color Hex
         };
 
