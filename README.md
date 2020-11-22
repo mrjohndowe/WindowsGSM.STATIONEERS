@@ -6,12 +6,13 @@
 
 # Installation 
 1. Download the latest release
-2. Move Stationeers.cs folder to plugins folder
-3. Click [RELOAD PLUGINS] button or restart WindowsGSM
-5. Click in WindowsGSM Servers --> Install GameServer
-6. Click on the Dropdown Menu and Search for Stationeers Dedicated Server [STATIONEERS.cs]
+2. Move `Stationeers.cs` folder to plugins folder
+3. Click **RELOAD PLUGINS** button or restart WindowsGSM
+   - Goto the **Plugin Area** on the bottom left at the WindosGSM. (*Puzzelsymbol*)
+4. Click in `WindowsGSM Servers` then on **Install GameServer**
+5. Click on the Dropdown Menu and Search for `Stationeers Dedicated Server [STATIONEERS.cs]`
    - *Optional Change Server Name (Can be done Later too)*
-7. Press Install (Enjoy :heart:)
+6. Press Install (Enjoy :heart:)
 
 # Additional Information
 Not all WindowsGMS Inputfields are taken over. For example Ports. They need to be definied in the Startup Parameters
