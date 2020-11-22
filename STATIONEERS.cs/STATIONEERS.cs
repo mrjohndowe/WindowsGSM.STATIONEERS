@@ -15,7 +15,7 @@ namespace WindowsGSM.Plugins
         // - Plugin Details
         public Plugin Plugin = new Plugin
         {
-            name = "WindowsGSM.STATIONEERS-Test", // WindowsGSM.XXXX
+            name = "WindowsGSM.STATIONEERS", // WindowsGSM.XXXX
             author = "Nopus",
             description = "🧩 WindowsGSM plugin for supporting Staioneers Dedicated Server",
             version = "1.0",
