@@ -2,4 +2,4 @@
 🧩 WindowsGSM plugin for supporting Stationeers Dedicated Server
 
 # Requirements 
-(https://github.com/BattlefieldDuck/WindowsGSM.ARMA3#requirements)
+[WindowsGSM](https://github.com/WindowsGSM/WindowsGSM) >= 1.21.0
