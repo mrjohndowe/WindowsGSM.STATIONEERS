@@ -8,3 +8,6 @@
 1. Download the latest release
 2. Move Stationeers.cs folder to plugins folder
 3. Click [RELOAD PLUGINS] button or restart WindowsGSM
+
+# Installation
+This project is licensed under the MIT License - see the LICENSE.md file for details
