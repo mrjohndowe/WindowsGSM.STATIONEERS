@@ -6,5 +6,5 @@
 
 # Installation 
 1. Download the latest release
-2. Move ARMA3.cs folder to plugins folder
+2. Move Stationeers.cs folder to plugins folder
 3. Click [RELOAD PLUGINS] button or restart WindowsGSM
