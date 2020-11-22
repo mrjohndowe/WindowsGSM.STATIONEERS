@@ -18,6 +18,7 @@ Not all WindowsGMS Inputfields are taken over. For example Ports. They need to b
 * `-password=lol`
 * `-autosaveinterval=300`
 * `-loadworld=WGSM-StationeersServer -worldname=WGSM-StationeersServer` :heavy_exclamation_mark: [Special behaivor](https://stationeers-wiki.com/Dedicated_Server_Guide)
+
 More Parameter Information under [Stationeers-wiki.com](https://stationeers-wiki.com/Dedicated_Server_Guide)
 
 # Installation
