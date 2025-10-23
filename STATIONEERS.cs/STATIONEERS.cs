@@ -16,11 +16,11 @@ namespace WindowsGSM.Plugins
         public Plugin Plugin = new Plugin
         {
             name = "WindowsGSM.STATIONEERS", // WindowsGSM.XXXX
-            author = "Nopus",
+            author = "MrJohnDowe",
             description = "🧩 WindowsGSM plugin for supporting Staioneers Dedicated Server",
-            version = "1.0",
-            url = "https://github.com/Nopus64/WindowsGSM.STATIONEERS", // Github repository link (Best practice)
-            color = "#0000FF" // Color Hex
+            version = "1.2.3",
+            url = "https://github.com/mrjohndowe/WindowsGSM.STATIONEERS", // Github repository link (Best practice)
+            color = "#07077dff" // Color Hex
         };
 
 
