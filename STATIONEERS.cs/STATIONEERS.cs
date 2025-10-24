@@ -49,10 +49,10 @@ namespace WindowsGSM.Plugins
 		public string RConPass = "stationeers"; //Defuakt RconPassword
         public string Port = "27000"; // Default port
         public string QueryPort = "27001"; // Default query port
-        public string Defaultmap = "Moon"; // Default map name
-        public string Maxplayers = "0"; // Default maxplayers
+        public string Defaultmap = "Lunar"; // Default map name Lunar, Mars2, Europa3, MimasHerschel, Vulcan, Venus
+        public string Maxplayers = "10"; // Default maxplayers
 		//public string ModPath = ".\mods\";
-        public string Additional = "-batchmode -nographics -autostart -gameport=27000 -updateport=27001 -autosaveinterval=300 -servername=WGSM-StationeersServer -password=lol -loadworld=WGSM-StationeersServer -worldname=WGSM-StationeersServer";
+        public string Additional = "-batchmode -nographics -autostart -gameport=27000 -updateport=27001 -autosaveinterval=300 -servername=WGSM-StationeersServer -password=nothing -loadworld=WGSM-StationeersServer -worldname=WGSM-StationeersServer";
 
 
         // - Create a default cfg for the game server after installation
